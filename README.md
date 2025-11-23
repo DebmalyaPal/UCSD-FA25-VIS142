@@ -1,5 +1,4 @@
-# UCSD-FA25-VIS142
-[UCSD-FA25] VIS-142 - Practices in Computing Arts (Role: Teaching Assistant)  
+# [UCSD-FA25] VIS-142 - Practices in Computing Arts
 
 This repository contains code, documentation, and projects from the VIS-142 course.  
 It is divided into four main sections to guide students from **Python basics** to **hands-on AI and animation projects**.
@@ -15,7 +14,7 @@ It is divided into four main sections to guide students from **Python basics** t
   - Control flow (if/else, loops)
   - Functions and modules
   - File handling
-- **Folder:** `python/`
+- **Folder:** `Python/`
 
 ### 2. Raspberry Pi & Linux
 - **Goal:** Understand how to use Raspberry Pi with Linux
@@ -34,13 +33,21 @@ It is divided into four main sections to guide students from **Python basics** t
   - Project Sample
 - **Folder:** `Project 1: AI Slop/`
 
-### 4. Project-2: Animation using PyGame
-- **Goal:** Learn game development basics with PyGame
+### 4. PyGame Basics
+- **Goal:** Learn fundamentals of PyGame for graphics and animation
 - **Contents:**
   - Introduction to PyGame
-  - Creating windows, drawing shapes
-  - Intro to Animations using PyGame
-  - Project Sample
+  - Screen setup, captions, and colors
+  - Drawing shapes (rectangles, circles, lines, polygons)
+  - Rendering text
+  - Basic animation loop
+- **Folder:** `PyGame/`
+
+### 5. Project-2: Animation with PyGame
+- **Goal:** Apply PyGame basics to build a simple animation project
+- **Contents:**
+  - Sample project combining shapes and animation
+  - Guidance on structuring animation code
 - **Folder:** `Project 2: Animation with PyGame/`
 
 ---
@@ -108,4 +115,4 @@ To exit, use: `\bye`
 
 ---
 
-Happy learning 🚀
+**Happy Learning!! 🚀🚀🚀**

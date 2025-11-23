@@ -159,7 +159,8 @@ Instead of sending a fixed prompt, the program constructs a new prompt each run 
 ## Suggestions for Project Work
 
 Once you have Program 1 and Program 2 working, it’s time to **push your creativity further**.  
-Remember, the theme is *AI Slop* — it doesn’t need to make perfect sense. The goal is to explore text generation, randomness, and playful experimentation.
+Remember, the theme is *AI Slop* — it doesn’t need to make perfect sense. The goal is to explore text generation, randomness, and playful experimentation.  
+Also, try to write your AI Slop to a file through program itself.
 
 ### Ideas to Try
 1. **Add more random fields to your prompt**  
