@@ -115,4 +115,9 @@ To exit, use: `\bye`
 
 ---
 
+## 🌟 Student Portfolio Showcase (Project - 2)
+View completed projects (Project-2: Animantion with PyGame) of students from this offering of the course -  [Fall 2025 VIS-142 Portfolio](https://ucsd-fa25-vis142-portfolio.netlify.app)
+
+---
+
 **Happy Learning!! 🚀🚀🚀**
